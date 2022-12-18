@@ -13,6 +13,7 @@
  * i.e. each input string will only ever consist of 'G', 'C', 'A' and/or 'T'.
  */
 
+// Level of difficulty: 6 kyu
 public class DNAToRNAConversion {
     public static String dnaToRna(String dna) {
         return dna.replaceAll("T", "U");
