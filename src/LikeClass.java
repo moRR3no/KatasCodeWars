@@ -19,7 +19,7 @@ public class LikeClass {
         System.out.println(whoLikesIt(arr));
     }
 
-    public static String whoLikesIt(String[] names) {
+    public static String whoLikesIt(String... names) {
         int arrayLength = names.length;
         switch (arrayLength) {
             case 0:
