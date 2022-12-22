@@ -29,4 +29,8 @@ public class Isogram {
         }
         return true;
     }
+
+    public static boolean isIsogramBestPractice (String str) {
+        return str.length() == str.toLowerCase().chars().distinct().count();
+    }
 }
