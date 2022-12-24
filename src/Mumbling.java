@@ -23,4 +23,18 @@ public class Mumbling {
         }
         return endString.replaceAll("-$","");
     }
+
+    public static String accumBestPractice(String s){
+        StringBuilder sb = new StringBuilder();
+        int i = 0;
+        for (char c : s.toCharArray()) {
+            if (i > 0) sb.append("-");
+            sb.append(Character.toUpperCase(c));
+            for (int j = 0; j < i; j++) {
+                sb.append(Character.toLowerCase(c));
+                i++;
+            }
+        }
+        return sb.toString();
+    }
 }
