@@ -7,7 +7,7 @@
  * accum("cwAt") -> "C-Ww-Aaa-Tttt"
  * The parameter of accum is a string which includes only letters from a..z and A..Z.
  */
-
+//Level of difficulty: 6kyu
 public class Mumbling {
     public static void main(String[] args) {
         System.out.println(accum("ZpglnRxqenU"));;

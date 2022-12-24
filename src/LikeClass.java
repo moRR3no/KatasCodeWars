@@ -13,6 +13,7 @@
  * Note: For 4 or more names, the number in "and 2 others" simply increases.
  */
 
+//Level of difficulty: 6kyu
 public class LikeClass {
     public static void main(String[] args) {
         String[] arr = {"Alex", "Jacob", "Mark", "Max"};

@@ -12,7 +12,7 @@
  */
 
 
-
+//Level of difficulty: 6kyu
 public class ExesAndOhs {
     public static void main(String[] args) {
 

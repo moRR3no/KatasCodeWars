@@ -15,6 +15,7 @@ import java.util.List;
  * isIsogram "aba" = false
  */
 
+//Level of difficulty: 6kyu
 public class Isogram {
     public static void main(String[] args) {
 
