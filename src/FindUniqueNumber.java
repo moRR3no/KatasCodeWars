@@ -36,8 +36,6 @@ public class FindUniqueNumber {
         for (double d : hashmap.keySet()) {
             if (d != notUniqueNum) returnNum = d;
         }
-
-
         return returnNum;
     }
 
