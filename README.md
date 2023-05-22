@@ -22,6 +22,7 @@ This is GitHub repository that documents my practice on Java core by completing 
 ##### *6kyu*:
 + [ArrayDiff](https://github.com/moRR3no/KatasCodeWars/blob/master/src/_6kyu/ArrayDiff.java)
 + [BouncigBalls](https://github.com/moRR3no/KatasCodeWars/blob/master/src/_6kyu/BouncingBalls.java)
++ [CountChars](https://github.com/moRR3no/KatasCodeWars/blob/master/src/_6kyu/CountChars.java)
 + [CountingDuplicates](https://github.com/moRR3no/KatasCodeWars/blob/master/src/_6kyu/CountingDuplicates.java)
 + [DNAToRNAConversion](https://github.com/moRR3no/KatasCodeWars/blob/master/src/_6kyu/DNAToRNAConversion.java)
 + [DuplicateEncoder](https://github.com/moRR3no/KatasCodeWars/blob/master/src/_6kyu/DuplicateEncoder.java)
